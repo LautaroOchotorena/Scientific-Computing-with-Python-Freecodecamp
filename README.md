@@ -1,2 +1,2 @@
-### This is a course taken in Freecodecamp, to complete it I had to make 5 projects which are the ones that are in the folders <br>
-### If you wanna run the scripts you can check them out here: https://replit.com/@LautaroOchotore
+### This is a course taken in FreeCodeCamp. To complete it, I had to create 5 projects, which are stored in the folders. Instructions are provided for each project.
+### If you want to run the scripts, you can check them out here: https://replit.com/@LautaroOchotore
